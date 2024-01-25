@@ -1,0 +1,26 @@
+// assets/styles/main.scss
+
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+  color: #333;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+a {
+  color: #0070f3;
+  text-decoration: none;
+  cursor: pointer;
+  &:hover {
+    text-decoration: underline;
+  }
+}
